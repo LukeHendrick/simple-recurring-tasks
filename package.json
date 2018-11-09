@@ -1,6 +1,6 @@
 {
   "name": "simplerecurringtasks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple recurring tasks module, takes in an initial time and recurrence pattern and fires the provided callback on those intervals",
   "main": "recurringTask.js",
   "scripts": {
