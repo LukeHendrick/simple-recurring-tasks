@@ -1,4 +1,4 @@
-# simplerecurringtasks v0.0.1
+# simplerecurringtasks v0.0.4
 A simple recurring tasks module, takes in an initial time and recurrence pattern and fires the provided callback on those intervals
 
 ## Installation
