@@ -19,7 +19,7 @@ recurringTasks(
 },
  callbackFunction);
 ```
-The above code will run the passed callback for the first time on November 11th, 2018 at 3:00 PM, and every day at 3:00 PM after that.
+The above code will run the passed callback for the first time on November 11th, 2018 at 3:00 PM, and every day at 3:00 PM after that. The callback is pased the taskContent parameter for processing.
 
 Using the custom recurrence pattern:
 ```javascript
